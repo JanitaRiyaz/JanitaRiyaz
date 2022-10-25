@@ -9,8 +9,9 @@
   <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
   
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</div>
   <a href='https://twitter.com/JanitaRiyaz'>
+</div>
+  
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=JanitaRiyaz&style=flat-square&color=blue"  alt=""/>
